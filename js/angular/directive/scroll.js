@@ -19,7 +19,7 @@
  *  </ion-scroll>
  * ```
  *
- * Note that it's important to set the height of the scroll box as well as the height of the inner
+ * Note that it's important to set the height of the scroll box as well as the width of the inner
  * content to enable scrolling. This makes it possible to have full control over scrollable areas.
  *
  * If you'd just like to have a center content scrolling area, use {@link ionic.directive:ionContent} instead.
